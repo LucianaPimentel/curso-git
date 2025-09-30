@@ -3,3 +3,5 @@ Segunda linha do arquivo
 Terceira linha do arquivo
 Quarta linha do arquivo
 Quinta linha do arquivo
+Sexta linha do arquivo
+Setima limha do arquivo
